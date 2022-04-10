@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 Twitter   - https://twitter.com/MelvinSajith , 
 YouTube   - https://www.youtube.com/channel/UC0Nm0O9WIpnPzETvmGoI0jA ,
-Instagram -https://www.instagram.com/melvin_20_00/
+Instagram -https://www.instagram.com/melvin._.sajith/
 
 
 <!---
