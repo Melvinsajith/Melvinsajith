@@ -21,18 +21,27 @@
 🌟 My interests lie in:
 
 Robotic Vision 📷
+
 Autonomous Navigation and Path Planning 🛰️
+
 SLAM (Simultaneous Localization & Mapping) 🗺️
+
 Machine Learning/Deep Learning/Reinforcement Learning for robotics 🤖🧠
+
 🚀 I thrive on pushing the boundaries of technology, constantly exploring and implementing cutting-edge solutions. My GitHub is a canvas for sharing exciting projects, code snippets, and insights within the realms of IoT, Robotics, and AI.
 
 🔧 Proficient in:
 
 Robot Programming 🤖💻
+
 ROS (Robot Operating System) 🤖🖥️
+
 OpenCV 📸
+
 Java & Object-Oriented Programming 📚💻
+
 Mechatronics & Microcontrollers ⚙️🔌
+
 💡 Let's collaborate, innovate, and build the future together! Feel free to explore my projects and connect with me to discuss ideas, share insights, or embark on thrilling tech ventures.
 
 Twitter   - https://twitter.com/MelvinSajith , 
