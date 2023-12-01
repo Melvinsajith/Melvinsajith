@@ -54,7 +54,7 @@ YouTube   - https://www.youtube.com/channel/UC0Nm0O9WIpnPzETvmGoI0jA ,
 Instagram -https://www.instagram.com/melvin._.sajith/
 
 
-<p>&nbsp;<img align="lift" src="https://github-readme-stats.vercel.app/api?username=melvinsajith&show_icons=true&locale=en" alt="melvinsajith" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=melvinsajith&show_icons=true&locale=en" alt="melvinsajith" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=melvinsajith&" alt="melvinsajith" /></p>
 
