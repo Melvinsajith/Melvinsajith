@@ -54,6 +54,10 @@ YouTube   - https://www.youtube.com/channel/UC0Nm0O9WIpnPzETvmGoI0jA ,
 Instagram -https://www.instagram.com/melvin._.sajith/
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melvinsajith&show_icons=true&locale=en" alt="melvinsajith" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melvinsajith&" alt="melvinsajith" /></p>
+
 <!---
 Melvinsajith/Melvinsajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
