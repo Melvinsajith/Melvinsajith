@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melvin Sajith</h1>
 <h3 align="center">A passionate Roboticist from Ernakulam, Kerala, India</h3>
 
-<img src="https://github.com/Melvinsajith/Melvinsajith/assets/75600365/69022c56-dc80-48f5-b8ea-188f6abaa9fa" width="200" height="200" />
+<img align="right" src="https://github.com/Melvinsajith/Melvinsajith/assets/75600365/69022c56-dc80-48f5-b8ea-188f6abaa9fa" width="400" height="500" />
 
 
 🤖 With three years of hands-on experience in Robotics and AI, I'm on a mission to revolutionize technology in India. As the Head of IoT and Robotics at Karunyahacks, I drive innovation and foster advancements in Robotics and Artificial Intelligence.
