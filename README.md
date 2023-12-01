@@ -1,3 +1,5 @@
+![logo](https://github.com/Melvinsajith/Melvinsajith/blob/main/1649467789645.jpeg)
+
 <h1 align="center">Hi 👋, I'm Melvin Sajith</h1>
 <h3 align="center">A passionate Roboticist from Ernakulam, Kerala, India</h3>
 
