@@ -56,7 +56,7 @@ Instagram -https://www.instagram.com/melvin._.sajith/
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=melvinsajith&show_icons=true&locale=en" alt="melvinsajith" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=melvinsajith&" alt="melvinsajith" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=melvinsajith&" alt="melvinsajith" /></p>
 
 <!---
 Melvinsajith/Melvinsajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
