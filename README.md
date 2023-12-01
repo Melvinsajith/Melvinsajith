@@ -1,4 +1,6 @@
 👋 Hey there! I'm Melvin Sajith, a passionate Roboticist from Ernakulam, Kerala, India 🇮🇳.
+Linkdin
+https://www.linkedin.com/in/melvinsajith
 
 🤖 With three years of hands-on experience in Robotics and AI, I'm on a mission to revolutionize technology in India. As the Head of IoT and Robotics at Karunyahacks, I drive innovation and foster advancements in Robotics and Artificial Intelligence.
 
