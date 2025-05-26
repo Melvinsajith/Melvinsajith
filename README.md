@@ -41,10 +41,10 @@ I'm always eager to **collaborate, share insights**, and discuss cutting-edge de
 `Python` `Java` `C` `Bash` `HTML5` `CSS3`
 
 **Libraries & Frameworks:**  
-`OpenCV` `TensorFlow` `Pandas` `NumPy`
+`OpenCV` `TensorFlow` `Pandas` `NumPy` `ROS` `ROS2`  
 
 **Robotics & Hardware:**  
-`ROS` `Arduino` `Microcontrollers` `Mechatronics`
+`ROS` `Arduino` `Microcontrollers` `Mechatronics` `Jetson nano` `Raspberry pi`  
 
 **Databases & Tools:**  
 `MySQL` `PostgreSQL` `Docker` `Git` `Linux` `AWS`
